@@ -9,7 +9,7 @@ I am Thom, a 3rd year college student at Philippines. I am a passionate learner 
 - I am currently looking for job opportunities
 
 ## Tech Stack
-<img src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" height= "38">	<img src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain-wordmark.svg" height= "40">	<img src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" height= "40">	<img src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" height= "40">
+<img src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" height= "38">	<img src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain-wordmark.svg" height= "40">	<img src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" height= "40">	<img src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" height= "40"> <img src= "https://github.com/TcBello/devicon/blob/master/icons/react/react-original-wordmark.svg" height= "40">
 
 ## Contact me
 <img src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" height= "30"> <a href= "https://www.linkedin.com/in/tcbello/"><img src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" height= "30"></a>	<a href= "https://www.facebook.com/SxzOtaku/"><img src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-plain.svg" height= "30"></a>
