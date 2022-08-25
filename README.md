@@ -3,10 +3,10 @@
 <img src= "https://steamuserimages-a.akamaihd.net/ugc/2422250350101248810/4FB27DE025C123ACF90706D096FAD126F703B34C/">
 </p>
 
-I am Thom, a 3rd year college student at Philippines. I am a passionate learner and tech enthusiast😄.
+I am Thom, a 4th year college student at Philippines. I am a passionate learner and tech enthusiast😄.
 
 - I am currently learning on back-end technologies
-- I am currently looking for job opportunities
+- I am currently working on Nittiv as a Flutter Developer
 
 ## Tech Stack
 <img src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" height= "38">	<img src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain-wordmark.svg" height= "40">	<img src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" height= "40">	<img src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" height= "40"> <img src= "https://github.com/TcBello/devicon/blob/master/icons/react/react-original-wordmark.svg" height= "40">
