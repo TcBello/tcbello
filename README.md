@@ -6,7 +6,7 @@
 I am Thom, a 4th year college student at Philippines. I am a passionate learner and tech enthusiast😄.
 
 - I am currently learning on back-end technologies
-- I am currently working on Nittiv as a Flutter Developer
+- I am currently working on Nittiv as a Lead Flutter Developer
 
 ## Tech Stack
 <img src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" height= "38">	<img src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain-wordmark.svg" height= "40">	<img src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" height= "40">	<img src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" height= "40"> <img src= "https://github.com/TcBello/devicon/blob/master/icons/react/react-original-wordmark.svg" height= "40">
