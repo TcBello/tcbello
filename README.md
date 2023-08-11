@@ -3,9 +3,9 @@
 <img src= "https://steamuserimages-a.akamaihd.net/ugc/2422250350101248810/4FB27DE025C123ACF90706D096FAD126F703B34C/">
 </p>
 
-I am Thom, a 4th year college student at Philippines. I am a passionate learner and tech enthusiast😄.
+I am Thom, a full stack developer. I am a passionate learner and tech enthusiast😄.
 
-- I am currently learning on back-end technologies
+- I am currently learning on Next.js, and best practices to have a clean, scalable, and maintainable code.
 - I am currently working on Nittiv as a Lead Flutter Developer
 
 ## Tech Stack
