@@ -13,6 +13,7 @@ Beyond my professional role, I am passionate about exploring and developing crea
 - I am currently looking for job opportunities.
 
 ## Languages and Tools
+<div style="display:flex; flex-direction: row; gap: 4rem">
 <img src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" height= "38">
 <img src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain-wordmark.svg" height= "40">
 <img src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" height= "40">
@@ -27,6 +28,7 @@ Beyond my professional role, I am passionate about exploring and developing crea
 <img src= "https://github.com/TcBello/devicon/blob/master/icons/sqlite/sqlite-original.svg" height= "40">
 <img src= "https://github.com/TcBello/devicon/blob/master/icons/git/git-original-wordmark.svg" height= "40">
 <img src= "https://github.com/TcBello/devicon/blob/master/icons/figma/figma-original.svg" height= "40">
+</div>
 
 ## Contact me
 <img src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" height= "30"> <a href= "https://www.linkedin.com/in/tcbello/"><img src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" height= "30"></a>	<a href= "https://www.facebook.com/SxzOtaku/"><img src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-plain.svg" height= "30"></a>
