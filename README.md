@@ -13,7 +13,7 @@ Beyond my professional role, I am passionate about exploring and developing crea
 - I am currently looking for job opportunities.
 
 ## Languages and Tools
-<div style="display:flex; flex-direction: row; gap: 4rem">
+<div style="display:flex; flex-direction: row; gap: 8rem">
 <img src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" height= "38">
 <img src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain-wordmark.svg" height= "40">
 <img src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" height= "40">
