@@ -12,8 +12,21 @@ Beyond my professional role, I am passionate about exploring and developing crea
 - I am currently learning on Next.js, and best practices to have a clean, scalable, and maintainable code.
 - I am currently looking for job opportunities.
 
-## Tech Stack
-<img src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" height= "38">	<img src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain-wordmark.svg" height= "40">	<img src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" height= "40">	<img src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" height= "40"> <img src= "https://github.com/TcBello/devicon/blob/master/icons/react/react-original-wordmark.svg" height= "40">
+## Languages and Tools
+<img src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" height= "38">
+<img src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain-wordmark.svg" height= "40">
+<img src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" height= "40">
+<img src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" height= "40">
+<img src= "https://github.com/TcBello/devicon/blob/master/icons/react/react-original-wordmark.svg" height= "40">
+<img src= "https://github.com/TcBello/devicon/blob/master/icons/nextjs/nextjs-original.svg" height= "40">
+<img src= "https://github.com/TcBello/devicon/blob/master/icons/html5/html5-original-wordmark.svg" height= "40">
+<img src= "https://github.com/TcBello/devicon/blob/master/icons/css3/css3-original-wordmark.svg" height= "40">
+<img src= "https://github.com/TcBello/devicon/blob/master/icons/javascript/javascript-original.svg" height= "40">
+<img src= "https://github.com/TcBello/devicon/blob/master/icons/typescript/typescript-original.svg" height= "40">
+<img src= "https://github.com/TcBello/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" height= "40">
+<img src= "https://github.com/TcBello/devicon/blob/master/icons/sqlite/sqlite-original.svg" height= "40">
+<img src= "https://github.com/TcBello/devicon/blob/master/icons/git/git-original-wordmark.svg" height= "40">
+<img src= "https://github.com/TcBello/devicon/blob/master/icons/figma/figma-original.svg" height= "40">
 
 ## Contact me
 <img src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" height= "30"> <a href= "https://www.linkedin.com/in/tcbello/"><img src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" height= "30"></a>	<a href= "https://www.facebook.com/SxzOtaku/"><img src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-plain.svg" height= "30"></a>
