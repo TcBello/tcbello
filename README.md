@@ -3,7 +3,11 @@
 <img src= "https://steamuserimages-a.akamaihd.net/ugc/2422250350101248810/4FB27DE025C123ACF90706D096FAD126F703B34C/">
 </p>
 
-I am Thom, a full stack developer. I am a passionate learner and tech enthusiast😄.
+I am Thom, a mobile developer specializing in Flutter, with a strong background in backend development using MongoDB, Express.js, Node.js, and Firebase. I focus on designing and implementing highly functional mobile applications that prioritize user experience and performance.
+
+I excel in developing scalable backend solutions and RESTful APIs that seamlessly integrate with mobile platforms. My approach emphasizes collaboration with cross-functional teams to deliver impactful solutions.
+
+Beyond my professional role, I am passionate about exploring and developing creative and innovative ideas. I leverage my technical skills to prototype and explore new concepts, continually seeking opportunities for learning and growth. My goal is to contribute creativity and technical expertise to projects that challenge conventions and solve complex real-world challenges.
 
 - I am currently learning on Next.js, and best practices to have a clean, scalable, and maintainable code.
 - I am currently looking for job opportunities.
