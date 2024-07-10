@@ -3,7 +3,7 @@
 <img src= "https://steamuserimages-a.akamaihd.net/ugc/2422250350101248810/4FB27DE025C123ACF90706D096FAD126F703B34C/">
 </p>
 
-I am Thom, a mobile developer specializing in Flutter, with a strong background in backend development using MongoDB, Express.js, Node.js, and Firebase. I focus on designing and implementing highly functional mobile applications that prioritize user experience and performance.
+I am Thom, an experienced mobile developer specializing in Flutter, with a strong background in backend development using MongoDB, Express.js, Node.js, and Firebase. I focus on designing and implementing highly functional mobile applications that prioritize user experience and performance.
 
 I excel in developing scalable backend solutions and RESTful APIs that seamlessly integrate with mobile platforms. My approach emphasizes collaboration with cross-functional teams to deliver impactful solutions.
 
