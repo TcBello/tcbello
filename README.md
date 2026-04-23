@@ -58,7 +58,7 @@ Beyond my professional role, I am passionate about exploring and developing crea
 <img src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height= "40">
 <img src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/framermotion/framermotion-original.svg" height= "40">
 <img src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" height= "40">
-<img src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions" height= "40">
+<img src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" height= "40">
 </div>
 
 ## Contact me
